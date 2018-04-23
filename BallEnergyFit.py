@@ -21,10 +21,6 @@ ratio = energy/elower
 
 fig = plt.figure()
 
-
-
-
-
 ax2 = fig.add_subplot(111)
 ax2.plot(n[18:], ratio[18:],  color = 'blue', zorder = 15)
 
