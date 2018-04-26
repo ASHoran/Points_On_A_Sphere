@@ -1,5 +1,5 @@
 # Points On A Sphere
-## *Python codes used to collect the data given in my report and to produce graphs and images*.
+## *Python code used to collect the data given in my report and to produce graphs and images*.
 
 
 **DiscEnergyFit.py**: 
@@ -43,10 +43,10 @@ whether the shape has a vertical or horizontal reflective plane and also if the 
 **VoronoiPlot.py**:  
 Creates a Voronoi plot of a given configuration of points on the surface of a sphere.
 
-VPDisc.py:
+**VPDisc.py**:
 Produces a Voronoi plot of a given configuration of points in a disc.
 
-fullmonte:
+**fullmonte**:
 Program written by Paul Sutcliffe with changes made by myself. I rewrote the code so that it is split into functions instead of one loop.
 Also changed the stopping criteria of the program.
 
