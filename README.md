@@ -30,3 +30,18 @@ distribution methods for the starting points detailed in the report.
 
 **fullmonte**: Program written by Paul Sutcliffe with changes made by myself. I rewrote the code so that it is split into functions instead of one loop. Also changed the stopping criteria of the program.
 
+**0disc_12.png**: 12 points on the surface of a disc after the energy has been minimised using the genetic algorithm.
+
+**0disc_30.png**: 30 points on the surface of a disc after the energy has been minimised using the genetic algorithm.
+
+**disc_55.png**: 55 points on the surface of a disc after the energy has been minimised using the genetic algorithm.
+
+**20points.png**: 20 points on the surface of a sphere after the energy has been minimised using the gradient flow method.
+
+**Voronoi_32.png**: Voronoi plot of 32 points on the surface of a sphere after the energy has been minimised.
+
+**0spherepack_38.png**: Sphere packing of 38 points in a ball where one point, represented by the green sphere, has higher energy than all other points. Blue spheres represent points in outer ring, yellow spheres represent points in the inner ring.
+
+**spherepack_13.png**: Sphere packing of 13 points in a ball, centre point represented by a yellow sphere, all other points represented by blue spheres.
+
+
